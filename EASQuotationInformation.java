@@ -1,5 +1,6 @@
 package com.hoau.eai.eas.vo;
 package com.hoau.eai.eas.vo;
+package com.hoau.eai.eas.vo1111;
 
 
 import java.util.List;
